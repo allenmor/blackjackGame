@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
 import { FaHandPointRight } from 'react-icons/fa';
-import { FaLinkedin } from 'react-icons/fa';
-import { FaGithub } from 'react-icons/fa';
-import { FaExternalLinkAlt } from 'react-icons/fa';
 import './Homepage.css';
 import video from "./React-Blackjack.mp4";
 
